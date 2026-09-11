@@ -1,4 +1,4 @@
-<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/"><img width="100%" alt="A film slate. Production: aufan. Director: Aufan Rachmad. Scene: websites and systems. Take 52. Roll: motion films. Melbourne." src="./assets/header-3.svg" /></a></p>
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/"><img width="100%" alt="A film slate with the name Aufan Rachmad chalked on as the production title. Roll: motion films. Scene: websites and systems. Take 52. Camera: Melbourne. 2026." src="./assets/header-3.svg" /></a></p>
 
 <p align="center"><sub>Every project is a take. Open one.</sub></p>
 
