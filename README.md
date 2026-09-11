@@ -1,84 +1,48 @@
 <p align="center"><a href="https://aufanhakim1920-source.github.io/studio/"><img width="100%" alt="A film slate with the name Aufan Rachmad chalked on as the production title. Roll: motion films. Scene: websites and systems. Take 52. Camera: Melbourne. 2026." src="./assets/header-3.svg" /></a></p>
 
-<p align="center"><sub>Every project is a take. ★ marks my favourites — open one.</sub></p>
-
-<details>
-<summary><b>TAKE 01</b> &nbsp;·&nbsp; <b>SIGNAL</b> ★ &nbsp; a ribbon of light in raw WebGL — one shader, no library</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/studio/work/land-aurora/"><img width="100%" alt="SIGNAL — a ribbon of light in raw WebGL" src="./assets/work/fav-land-aurora.jpg" /></a>
-<br /><sub>Self-initiated · it leans toward your cursor · <a href="https://aufanhakim1920-source.github.io/studio/work/land-aurora/">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 02</b> &nbsp;·&nbsp; <b>Shelf</b> ★ &nbsp; projects as book spines you pull off a shelf</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/studio/work/shelf/"><img width="100%" alt="Shelf — projects as book spines" src="./assets/work/fav-shelf.jpg" /></a>
-<br /><sub>Self-initiated · my first favourite, still · <a href="https://aufanhakim1920-source.github.io/studio/work/shelf/">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 03</b> &nbsp;·&nbsp; <b>Nocturne</b> ★ &nbsp; a sleeper train — card thickness is the price</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/studio/work/nocturne/"><img width="100%" alt="Nocturne — a sleeper train booking page" src="./assets/work/fav-nocturne.jpg" /></a>
-<br /><sub>Self-initiated · the price IS the thickness of the card you pick up · <a href="https://aufanhakim1920-source.github.io/studio/work/nocturne/">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 04</b> &nbsp;·&nbsp; <b>baka nae.</b> ★ &nbsp; a brand site for my sister's art label</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/studio/work/bakanae-atelier/"><img width="100%" alt="baka nae. — the approved design" src="./assets/work/fav-bakanae-atelier.jpg" /></a>
-<br /><sub>The approved design — periwinkle and hot pink · for family, unpaid — the shop is hers · <a href="https://aufanhakim1920-source.github.io/studio/work/bakanae-atelier/">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 05</b> &nbsp;·&nbsp; <b>ABYSSAL</b> ★ &nbsp; water seen from underneath</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/studio/work/land-caustic/"><img width="100%" alt="ABYSSAL — water seen from underneath" src="./assets/work/fav-land-caustic.jpg" /></a>
-<br /><sub>Self-initiated · it stills where you hold the cursor · <a href="https://aufanhakim1920-source.github.io/studio/work/land-caustic/">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 06</b> &nbsp;·&nbsp; <b>SOUNDING</b> ★ &nbsp; a subsea cable survey</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/studio/work/land-sounding/"><img width="100%" alt="SOUNDING — a subsea cable survey" src="./assets/work/fav-land-sounding.jpg" /></a>
-<br /><sub>Self-initiated · fire a sonar ping into the dark and it charts the seabed it passes · <a href="https://aufanhakim1920-source.github.io/studio/work/land-sounding/">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 07</b> &nbsp;·&nbsp; <b>UNDERTONE</b> ★ &nbsp; a reissue label</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/studio/work/land-undertone/"><img width="100%" alt="UNDERTONE — a reissue label" src="./assets/work/fav-land-undertone.jpg" /></a>
-<br /><sub>Self-initiated · sweep a bearing across the dark until a lost side names itself · <a href="https://aufanhakim1920-source.github.io/studio/work/land-undertone/">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 08</b> &nbsp;·&nbsp; <b>LODESTONE</b> ★ &nbsp; a payments router</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/studio/work/land-lodestone/"><img width="100%" alt="LODESTONE — a payments router" src="./assets/work/fav-land-lodestone.jpg" /></a>
-<br /><sub>Self-initiated · drag the magnet and a field of iron filings turns to the cheapest route · <a href="https://aufanhakim1920-source.github.io/studio/work/land-lodestone/">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 09</b> &nbsp;·&nbsp; <b>Week Board</b> &nbsp;<code>LIVE</code>&nbsp; a booking page that reads my real calendar</summary>
-<br />
-<a href="https://stellular-queijadas-097900.netlify.app"><img width="100%" alt="Week Board" src="./assets/work/weekboard.jpg" /></a>
-<br /><sub>Netlify · Google Calendar · <a href="https://stellular-queijadas-097900.netlify.app">open it ↗</a></sub>
-</details>
-
-<details>
-<summary><b>TAKE 10</b> &nbsp;·&nbsp; <b>Biomate</b> &nbsp;<code>LIVE</code>&nbsp; swipe a hike, join the group, record the walk</summary>
-<br />
-<a href="https://aufanhakim1920-source.github.io/biomate/"><img width="100%" alt="Biomate" src="./assets/work/biomate.jpg" /></a>
-<br /><sub>Hackathon, uni team · Postgres with row-level security · <a href="https://aufanhakim1920-source.github.io/biomate/">open it ↗</a> · <a href="https://github.com/aufanhakim1920-source/biomate">code</a></sub>
-</details>
-
-<details>
-<summary><b>ROLL</b> &nbsp;·&nbsp; <b>the films</b> &nbsp; short motion films, made in code</summary>
-<br />
-<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/motion-night/"><img width="13%" alt="Brand" src="./assets/films/brand.jpg" /> <img width="13%" alt="Rebrand" src="./assets/films/rebrand.jpg" /> <img width="13%" alt="Some Brands" src="./assets/films/zenn.jpg" /> <img width="13%" alt="Gen Z" src="./assets/films/genzdrawn.jpg" /> <img width="13%" alt="Boring Wins" src="./assets/films/boringwins.jpg" /> <img width="13%" alt="Shortcuts" src="./assets/films/shortcuts.jpg" /> <img width="13%" alt="Free" src="./assets/films/free.jpg" /></a></p>
-<sub><a href="https://aufanhakim1920-source.github.io/studio/work/motion-night/">Motion Night ↗</a> · <a href="https://www.instagram.com/aufanstudio/">Instagram</a> · <a href="https://www.youtube.com/@aufanstudio">YouTube</a></sub>
-</details>
+<p align="center"><b>Aufan Rachmad</b> &mdash; a designer who builds. Websites, interactive UI and short motion films, all written in code, no templates. Melbourne.</p>
+<p align="center"><sub><a href="https://aufanhakim1920-source.github.io/studio/">all 52 takes ↗</a> &nbsp;·&nbsp; <a href="https://aufanhakim1920-source.github.io/studio/work/motion-night/">the films ↗</a> &nbsp;·&nbsp; <a href="https://aufanhakim1920-source.github.io/studio/work/portfolio/">hire me ↗</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/aufanstudio/">@aufanstudio</a> &nbsp;·&nbsp; <a href="mailto:aufanhakim1920@gmail.com">email</a></sub></p>
 
 <br />
 
-<p align="center"><sub><a href="https://aufanhakim1920-source.github.io/studio/">all 52 takes ↗</a> &nbsp;·&nbsp; <a href="https://aufanhakim1920-source.github.io/studio/work/portfolio/">hire me ↗</a> &nbsp;·&nbsp; <a href="mailto:aufanhakim1920@gmail.com">aufanhakim1920@gmail.com</a></sub></p>
+<h3 align="center">★ &nbsp;the favourites</h3>
+<p align="center"><sub>Seven I keep. Every one is live &mdash; click it and use it.</sub></p>
+
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/shelf/"><img width="100%" alt="Shelf — projects as book spines you pull off a shelf" src="./assets/work/fav-shelf.jpg" /></a></p>
+<p align="center"><sub><b>Shelf</b> projects as book spines you pull off a shelf</sub></p>
+
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/nocturne/"><img width="49%" alt="Nocturne — sleeper train — card thickness is the price" src="./assets/work/fav-nocturne.jpg" /></a> <a href="https://aufanhakim1920-source.github.io/studio/work/bakanae-atelier/"><img width="49%" alt="baka nae. — atelier — the approved design — periwinkle and hot pink; 40-42 are this in her palettes" src="./assets/work/fav-bakanae-atelier.jpg" /></a></p>
+<p align="center"><sub><b>Nocturne</b> sleeper train — card thickness is the price &nbsp;·&nbsp; <b>baka nae. — atelier</b> the approved design — periwinkle and hot pink; 40-42 are this in her palettes</sub></p>
+
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/land-aurora/"><img width="49%" alt="SIGNAL — a ribbon of light in raw WebGL — one shader, no library, and it leans toward your cursor" src="./assets/work/fav-land-aurora.jpg" /></a> <a href="https://aufanhakim1920-source.github.io/studio/work/land-caustic/"><img width="49%" alt="ABYSSAL — water seen from underneath — it stills where you hold the cursor" src="./assets/work/fav-land-caustic.jpg" /></a></p>
+<p align="center"><sub><b>SIGNAL</b> a ribbon of light in raw WebGL — one shader, no library, and it leans toward your cursor &nbsp;·&nbsp; <b>ABYSSAL</b> water seen from underneath — it stills where you hold the cursor</sub></p>
+
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/land-sounding/"><img width="49%" alt="SOUNDING — subsea cable survey — fire a sonar ping into the dark and it charts the seabed it passes" src="./assets/work/fav-land-sounding.jpg" /></a> <a href="https://aufanhakim1920-source.github.io/studio/work/land-undertone/"><img width="49%" alt="UNDERTONE — a reissue label — sweep a bearing across the dark until a lost side names itself" src="./assets/work/fav-land-undertone.jpg" /></a></p>
+<p align="center"><sub><b>SOUNDING</b> subsea cable survey — fire a sonar ping into the dark and it charts the seabed it passes &nbsp;·&nbsp; <b>UNDERTONE</b> a reissue label — sweep a bearing across the dark until a lost side names itself</sub></p>
+
+<br />
+
+<h3 align="center">the latest takes</h3>
+<p align="center"><sub>Newest first. Retired numbers are never reused.</sub></p>
+
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/land-diorama/"><img width="32%" alt="FOLDAWAY — a paper toy theatre you look into — cut-paper flats in real 3D, and the show re-scenes" src="./assets/work/land-diorama.jpg" /></a> <a href="https://aufanhakim1920-source.github.io/studio/work/land-roast/"><img width="32%" alt="ROAST — a painted coffee bean you roast yourself — it pops at first crack and the flavour follows" src="./assets/work/land-roast.jpg" /></a> <a href="https://aufanhakim1920-source.github.io/studio/work/land-container/"><img width="32%" alt="CONTAINER — a history that runs sideways — travel right through the century and the port grows around you" src="./assets/work/land-container.jpg" /></a></p>
+<p align="center"><sub><b>FOLDAWAY</b> a paper toy theatre you look into — cut-paper flats in real 3D, and the show re-scenes &nbsp;·&nbsp; <b>ROAST</b> a painted coffee bean you roast yourself — it pops at first crack and the flavour follows &nbsp;·&nbsp; <b>CONTAINER</b> a history that runs sideways — travel right through the century and the port grows around you</sub></p>
+
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/land-chroma/"><img width="32%" alt="CHROMA — a risograph studio — drag the inks over each other, and the passes are the price" src="./assets/work/land-chroma.jpg" /></a> <a href="https://aufanhakim1920-source.github.io/studio/work/land-longexposure/"><img width="32%" alt="AFTERIMAGE — session replay — the page light-paints your own cursor, because recording you is the product" src="./assets/work/land-longexposure.jpg" /></a> <a href="https://aufanhakim1920-source.github.io/studio/work/dash-chairs/"><img width="32%" alt="Four Chairs — a barbershop — empty chair time, no-shows, or clients not returning: which one is the leak" src="./assets/work/dash-chairs.jpg" /></a></p>
+<p align="center"><sub><b>CHROMA</b> a risograph studio — drag the inks over each other, and the passes are the price &nbsp;·&nbsp; <b>AFTERIMAGE</b> session replay — the page light-paints your own cursor, because recording you is the product &nbsp;·&nbsp; <b>Four Chairs</b> a barbershop — empty chair time, no-shows, or clients not returning: which one is the leak</sub></p>
+
+<br />
+
+<h3 align="center">roll &nbsp;·&nbsp; the films</h3>
+<p align="center"><sub>Short motion films, made in code &mdash; narrated in my own voice.</sub></p>
+
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/motion-night/"><img width="13.5%" alt="BRAND" src="./assets/films/brand.jpg" /> <img width="13.5%" alt="REBRAND" src="./assets/films/rebrand.jpg" /> <img width="13.5%" alt="SOME BRANDS" src="./assets/films/zenn.jpg" /> <img width="13.5%" alt="GEN Z" src="./assets/films/genzdrawn.jpg" /> <img width="13.5%" alt="BORING WINS" src="./assets/films/boringwins.jpg" /> <img width="13.5%" alt="SHORTCUTS" src="./assets/films/shortcuts.jpg" /> <img width="13.5%" alt="FREE" src="./assets/films/free.jpg" /></a></p>
+<p align="center"><sub><a href="https://aufanhakim1920-source.github.io/studio/work/motion-night/">Motion Night ↗</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/aufanstudio/">Instagram</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/@aufanstudio">YouTube</a></sub></p>
+
+<br />
+
+<h3 align="center">live systems</h3>
+<p align="center"><a href="https://stellular-queijadas-097900.netlify.app"><img width="49%" alt="Week Board — a booking page that reads my real calendar" src="./assets/work/weekboard.jpg" /></a> <a href="https://aufanhakim1920-source.github.io/biomate/"><img width="49%" alt="Biomate — swipe a hike, join the group, record the walk" src="./assets/work/biomate.jpg" /></a></p>
+<p align="center"><sub><b>Week Board</b> a booking page that reads my real calendar &nbsp;·&nbsp; <b>Biomate</b> swipe a hike, join the group, record the walk with real GPS &nbsp;·&nbsp; <a href="https://github.com/aufanhakim1920-source/biomate">code</a></sub></p>
+
+<p align="center"><sub>Every project is a take.</sub></p>
