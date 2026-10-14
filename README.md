@@ -22,6 +22,12 @@
 
 <br />
 
+<h3 align="center">client work</h3>
+<p align="center"><a href="https://aufanhakim1920-source.github.io/studio/work/motion-night/"><img width="100%" alt="MERLO — the company profile film for PT Merlo Permata Indonesia" src="./assets/work/client-merlo-1610.jpg" /></a>
+<br /><sub><b>MERLO</b> &nbsp;the company profile for PT Merlo Permata Indonesia (Jakarta · Bali · Lombok) — made in Remotion to their script, their footage and their director's voice. Approved as final, live on their YouTube and website, and they booked four more films through 2027 &nbsp;·&nbsp; <a href="https://aufanhakim1920-source.github.io/studio/work/motion-night/">watch it ↗</a></sub></p>
+
+<br />
+
 <h3 align="center">the latest takes</h3>
 <p align="center"><sub>Newest first. Retired numbers are never reused.</sub></p>
 
